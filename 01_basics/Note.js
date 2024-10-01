@@ -18,3 +18,7 @@ we can also use mdn*/
 //object 
 //console.log(typeof null) => object
 //console.log(typeof undefined) =>undefined
+// "33" easily converted to 33
+// "33abs" => Nan (not an number)
+// true or false => 1 and 0 respectively
+// empty string "" => false
