@@ -22,3 +22,4 @@ we can also use mdn*/
 // "33abs" => Nan (not an number)
 // true or false => 1 and 0 respectively
 // empty string "" => false
+// video 3 
