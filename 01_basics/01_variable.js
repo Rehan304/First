@@ -6,12 +6,12 @@ let accountState
 //I'm still Trying
 accountEmail = "r2323@gmail.com"
 accountPassword = "A2323232323e"
-accountCity = "Bsdsp"
+accountcity = "Bsdsp"
 
 console.log(accountId);
 /* 
 Never use a var 
 */
 
-console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
+console.table([accountId, accountEmail, accountPassword, accountcity, accountState])
 
