@@ -23,3 +23,9 @@ we can also use mdn*/
 // true or false => 1 and 0 respectively
 // empty string "" => false
 // video 3 
+let schoolsremainings = "Hooria 1450, Bakaya 400, Abu Bakar afzal 250"
+let petrolremaining = "300 Rs"
+let Houseremaining = "Aapi Aqsa 1500, Masjid 1700"
+let TotalDebt = "5600"
+console.table([schoolsremainings, petrolremaining, Houseremaining, TotalDebt]);
+
