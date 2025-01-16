@@ -29,3 +29,7 @@ let Houseremaining = "Aapi Aqsa 1500, Masjid 1700"
 let TotalDebt = "5600"
 console.table([schoolsremainings, petrolremaining, Houseremaining, TotalDebt]);
 
+petrolremaining = (300 + 350)
+TotalDebt = 5950
+
+console.table([schoolsremainings, petrolremaining, Houseremaining, TotalDebt]);
