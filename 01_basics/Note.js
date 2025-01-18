@@ -27,9 +27,14 @@ let schoolsremainings = "Hooria 1450, Bakaya 400, Abu Bakar afzal 250"
 let petrolremaining = "300 Rs"
 let Houseremaining = "Aapi Aqsa 1500, Masjid 1700"
 let TotalDebt = "5600"
-console.table([schoolsremainings, petrolremaining, Houseremaining, TotalDebt]);
+//console.table([schoolsremainings, petrolremaining, Houseremaining, TotalDebt]);
 
 petrolremaining = (300 + 350)
 TotalDebt = 5950
 
-console.table([schoolsremainings, petrolremaining, Houseremaining, TotalDebt]);
+//console.table([schoolsremainings, petrolremaining, Houseremaining, TotalDebt]);
+petrolremaining = (650 + 250)
+let oldmilk = 8500
+TotalDebt = (5950 + 250)
+let Extradebt = 8500
+console.table([schoolsremainings, oldmilk, petrolremaining, Houseremaining, TotalDebt])
