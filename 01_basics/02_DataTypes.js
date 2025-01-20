@@ -8,3 +8,10 @@ let isLoggedIn = true
 // These are bolean type
 console.log(typeof "Rehan");
 console.log(typeof age )
+let gamecounter = 1
+/* agar ++ pehla aai to dono mein plus hota ha 
+ aur agar baad mein aai to pehla wala mein hi plus hota ha*/
+//console.log(newscore, gamecounter);
+ let newscore = ++gamecounter
+console.log(newscore, gamecounter);
+
