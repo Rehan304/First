@@ -37,4 +37,9 @@ petrolremaining = (650 + 250)
 let oldmilk = 8500
 TotalDebt = (5950 + 250)
 let Extradebt = 8500
-console.table([schoolsremainings, oldmilk, petrolremaining, Houseremaining, TotalDebt])
+//console.table([schoolsremainings, oldmilk, petrolremaining, Houseremaining, TotalDebt])
+petrolremaining = (1150)
+
+let Dadashop = 100
+TotalDebt = (5950 + 250 + 250)
+console.table([schoolsremainings, petrolremaining, Houseremaining, oldmilk, TotalDebt])
