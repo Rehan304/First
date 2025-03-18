@@ -25,7 +25,7 @@ we can also use mdn*/
 // video 3 
 let schoolsremainings = "Hooria 1450, Bakaya 400, Abu Bakar afzal 250, 50 randombachi"
 let petrolremaining = "300 Rs"
-let Houseremaining = "Aapi Aqsa 1500, Masjid 1700"
+let Houseremaining = "Aapi Aqsa 600, Masjid 2200"
 let TotalDebt = "5600"
 //console.table([schoolsremainings, petrolremaining, Houseremaining, TotalDebt]);
 
@@ -42,4 +42,8 @@ petrolremaining = 0
 
 let Dadashop = 100
 TotalDebt = (1450 + 450 + 250 + 1500 + 1700 + 1500)
-console.table([schoolsremainings, petrolremaining, Houseremaining, oldmilk, TotalDebt])
+//console.table([schoolsremainings, petrolremaining, Houseremaining, oldmilk, TotalDebt])
+
+TotalDebt = ( 1450 + 450 + 250 + 600 + 100 + 2200 )
+
+console.table([schoolsremainings, oldmilk, Houseremaining, TotalDebt])
